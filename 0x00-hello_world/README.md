@@ -5,3 +5,4 @@ File 0-preprocessor is a script that runs a C file through a preprocessor and sa
  2 files changed, 3 insertions(+)
  create mode 100755 0x00-hello_world/2-assembler
 3-name is a script that compiles a script file and creates an executable file
+4-puts.c is a C program that prints a string followed by a new line
