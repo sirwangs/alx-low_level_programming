@@ -9,3 +9,5 @@ File 0-preprocessor is a script that runs a C file through a preprocessor and sa
 4-puts.c is a C program that prints a string followed by a new line using the puts function
 
 5-printf.c is a C program that prints a string using the printf function
+
+6-size.c is a C program that prints the size of various types on the computer it is compiled and run on
