@@ -1,13 +1,7 @@
-#ifndef "main.h"
-#define  "main.h"
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
-/*
- * File: main.h
- *
- * Desc: Header file containing declartions for all function
- */
-
-int _putchar(char c);
+int _putchar(char d);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
